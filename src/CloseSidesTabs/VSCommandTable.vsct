@@ -16,6 +16,7 @@
 		<Buttons>
 			<Button guid="CloseSidesTabs" id="CloseTabsToRight" priority="0x0100" type="Button">
 				<Parent guid="CloseSidesTabs" id="CloseSidesTabsGroup" />
+				<CommandFlag>DynamicVisibility</CommandFlag>
 				<Strings>
 					<ButtonText>Close Tabs To The Right</ButtonText>
 					<LocCanonicalName>.CloseSidesTabs.CloseTabsToRight</LocCanonicalName>
@@ -23,6 +24,7 @@
 			</Button>
 			<Button guid="CloseSidesTabs" id="CloseTabsToLeft" priority="0x0101" type="Button">
 				<Parent guid="CloseSidesTabs" id="CloseSidesTabsGroup" />
+				<CommandFlag>DynamicVisibility</CommandFlag>
 				<Strings>
 					<ButtonText>Close Tabs To The Left</ButtonText>
 					<LocCanonicalName>.CloseSidesTabs.CloseTabsToLeft</LocCanonicalName>
