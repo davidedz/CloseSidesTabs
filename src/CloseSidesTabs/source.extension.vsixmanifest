@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="CloseSidesTabs.18c44be7-c90a-422a-843c-a13b95dbc2ef" Version="1.0.0" Language="en-US" Publisher="Davide" />
+        <Identity Id="CloseSidesTabs.18c44be7-c90a-422a-843c-a13b95dbc2ef" Version="1.0.0" Language="en-US" Publisher="DavideDZ" />
         <DisplayName>CloseSidesTabs</DisplayName>
-        <Description xml:space="preserve">Empty VSIX Project.</Description>
-        <Icon>Resources\Icon.png</Icon>
-        <PreviewImage>Resources\Icon.png</PreviewImage>
+        <Description xml:space="preserve">Extension to close tabs on right or left of the selected tab</Description>
+        <MoreInfo>https://github.com/davidedz/CloseSidesTabs</MoreInfo>
+        <Icon>Resources\icon.png</Icon>
+        <PreviewImage>Resources\icon.png</PreviewImage>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">

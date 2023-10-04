@@ -9,10 +9,10 @@ namespace CloseSidesTabs
     {
         public const string Id = "CloseSidesTabs.18c44be7-c90a-422a-843c-a13b95dbc2ef";
         public const string Name = "CloseSidesTabs";
-        public const string Description = @"Empty VSIX Project.";
+        public const string Description = @"Extension to close tabs on right or left of the selected tab";
         public const string Language = "en-US";
         public const string Version = "1.0.0";
-        public const string Author = "Davide";
+        public const string Author = "DavideDZ";
         public const string Tags = "";
     }
 }

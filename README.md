@@ -1,6 +1,6 @@
 # CloseSidesTabs
 
-You can download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/)
+You can download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=davidedz.CloseSidesTabs)
 
 ## Credits
 This is a copy of the [CloseTabsToRight](https://github.com/billpratt/CloseTabsToRight) extension made by [billprat](https://github.com/billpratt).
