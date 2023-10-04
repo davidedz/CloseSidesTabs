@@ -8,13 +8,13 @@
 
 	<Commands package="CloseSidesTabs">
 		<Groups>
-			<Group guid="CloseSidesTabs" id="CloseSidesTabsGroup" priority="0x0600">
+			<Group guid="CloseSidesTabs" id="CloseSidesTabsGroup" priority="0x0150">
 				<Parent guid="TabsMenu" id="TabsRightClickMenu"/>
 			</Group>
 		</Groups>
 
 		<Buttons>
-			<Button guid="CloseSidesTabs" id="CloseTabsToRight" priority="0x0100" type="Button">
+			<Button guid="CloseSidesTabs" id="CloseTabsToRight" priority="0x0010" type="Button">
 				<Parent guid="CloseSidesTabs" id="CloseSidesTabsGroup" />
 				<CommandFlag>DynamicVisibility</CommandFlag>
 				<Strings>
@@ -22,7 +22,7 @@
 					<LocCanonicalName>.CloseSidesTabs.CloseTabsToRight</LocCanonicalName>
 				</Strings>
 			</Button>
-			<Button guid="CloseSidesTabs" id="CloseTabsToLeft" priority="0x0101" type="Button">
+			<Button guid="CloseSidesTabs" id="CloseTabsToLeft" priority="0x0011" type="Button">
 				<Parent guid="CloseSidesTabs" id="CloseSidesTabsGroup" />
 				<CommandFlag>DynamicVisibility</CommandFlag>
 				<Strings>
