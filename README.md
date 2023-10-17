@@ -12,7 +12,7 @@ It has been adapted to work with Visual Studio 2022.
 - Close tabs on the right of the selected document
 - Close tabs on the left of the selected document
 
-![Menu](pics/menu.jpg)
+![Menu](pics/menu.png)
 
 ## License
 [Apache 2.0](LICENSE)
